@@ -1,0 +1,89 @@
+{
+    "@odata.context": "https://bc.pannoniabio.com/BC22_PBio_Test/api/iTadviseAG/pannoniaBio/v1.0/$metadata#companies(b2923eaf-b261-ee11-9232-00155d58fc05)/budgets",
+    "value": [
+        {
+            "@odata.etag": "W/\"JzIwOzE1ODE4OTE3OTYyMDU3MDIyNjI1MTswMDsn\"",
+            "budgetID": "BO23-000001",
+            "budgetType": "Organization-related (capex)",
+            "budgetName": "Budget 2023/02",
+            "budgetValidStartDate": "2023-10-01",
+            "budgetValidEndDate": "2023-10-31",
+            "budgetProjDim": "",
+            "budgetCcDim": "CC10.040",
+            "budgetInitAmt": 1000,
+            "budgetActualAmt": 900
+        },
+        {
+            "@odata.etag": "W/\"JzE5OzUyOTE1MjU5ODk5MzE0NTA4NzIxOzAwOyc=\"",
+            "budgetID": "BP23-000001",
+            "budgetType": "Project-related (capex)",
+            "budgetName": "Project 001",
+            "budgetValidStartDate": "2023-01-01",
+            "budgetValidEndDate": "2023-12-31",
+            "budgetProjDim": "BP23-000001",
+            "budgetCcDim": "",
+            "budgetInitAmt": 1000,
+            "budgetActualAmt": 2000
+        },
+        {
+            "@odata.etag": "W/\"JzE5OzczNjQ5Nzc3MTE2MDE0NDg4MjYxOzAwOyc=\"",
+            "budgetID": "BP23-000002",
+            "budgetType": "Project-related (capex)",
+            "budgetName": "Project 2023-24",
+            "budgetValidStartDate": "2023-01-01",
+            "budgetValidEndDate": "2024-01-31",
+            "budgetProjDim": "BP23-000002",
+            "budgetCcDim": "",
+            "budgetInitAmt": 0,
+            "budgetActualAmt": 0
+        },
+        {
+            "@odata.etag": "W/\"JzIwOzEwMjQzMDIxNTY5MDU1ODQwODE5MTswMDsn\"",
+            "budgetID": "BP23-000003",
+            "budgetType": "Project-related (capex)",
+            "budgetName": "",
+            "budgetValidStartDate": "0001-01-01",
+            "budgetValidEndDate": "0001-01-01",
+            "budgetProjDim": "",
+            "budgetCcDim": "",
+            "budgetInitAmt": 0,
+            "budgetActualAmt": 0
+        },
+        {
+            "@odata.etag": "W/\"JzE5OzYzMjczOTUzNjMxOTc0OTQwMDMxOzAwOyc=\"",
+            "budgetID": "BP23-000004",
+            "budgetType": "Project-related (capex)",
+            "budgetName": "Cooling water task",
+            "budgetValidStartDate": "2023-01-01",
+            "budgetValidEndDate": "2023-12-31",
+            "budgetProjDim": "BP23-000004",
+            "budgetCcDim": "CC30.010",
+            "budgetInitAmt": 38659.79,
+            "budgetActualAmt": 17752.78
+        },
+        {
+            "@odata.etag": "W/\"JzIwOzE4MTYzNzg3NTU3OTk0NTkyMDg5MTswMDsn\"",
+            "budgetID": "BP23-000005",
+            "budgetType": "Project-related (capex)",
+            "budgetName": "",
+            "budgetValidStartDate": "0001-01-01",
+            "budgetValidEndDate": "0001-01-01",
+            "budgetProjDim": "",
+            "budgetCcDim": "",
+            "budgetInitAmt": 0,
+            "budgetActualAmt": 0
+        },
+        {
+            "@odata.etag": "W/\"JzE5Ozk0NzgyOTQ0NjI5Nzg5MjUzOTAxOzAwOyc=\"",
+            "budgetID": "BX23-000001",
+            "budgetType": "Organization-related (opex)",
+            "budgetName": "Budget 2023 - Engineering",
+            "budgetValidStartDate": "2023-01-01",
+            "budgetValidEndDate": "2023-12-31",
+            "budgetProjDim": "",
+            "budgetCcDim": "CC30.010",
+            "budgetInitAmt": 0,
+            "budgetActualAmt": 0
+        }
+    ]
+}
